@@ -1,5 +1,5 @@
 <?php
-
+//view data
 class testView
 {
 	private $view_template;

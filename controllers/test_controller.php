@@ -1,6 +1,7 @@
 <?php
 require_once ("models/test_model.php");
 require_once ("views/test_view.php");
+require_once ("views/view.php");
 
 class testController {
 

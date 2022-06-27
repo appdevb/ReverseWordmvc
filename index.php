@@ -2,6 +2,7 @@
 require_once ("controllers/test_controller.php");
 require_once ("models/test_model.php");
 require_once ("views/test_view.php");
+require_once ("views/view.php");
 
 
 //create the 3 independent objects - one for each, the model, the view and the controller

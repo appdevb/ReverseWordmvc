@@ -24,7 +24,7 @@ class testModel
 	
 	function set_view_data()
 	{
-		//some data processing here... (business logic)
+		//some data processing here(business logic)
 		$this->view_data->some_data = $this->data;
 	}
 	
