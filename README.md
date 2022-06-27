@@ -1,2 +1,2 @@
 # ReverseWordmvc
- Revers Text MVC
+ Reverse Text MVC

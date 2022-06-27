@@ -1,4 +1,4 @@
-<h1> This is a test PHP/MVC app </h1><BR>
+<h1> This is a test PHP / MVC app </h1><BR>
 
 <div> The first variable = <b><?php echo $view_data->default_var; ?></b> </div><BR>
 <div> The loaded data is: <b><?php echo $view_data->some_data; ?></b> </div><BR>
